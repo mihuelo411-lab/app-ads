@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.8.0",
+  "latest_version": "1.9.0",
   "min_supported_version": "1.8.0",
-  "update_level": "required",
-  "message": "Actualización obligatoria para continuar usando AGA. Instala la versión más reciente desde Google Play.",
+  "update_level": "recommended",
+  "message": "Nueva versión disponible con mejoras clínicas y de usabilidad. ¡Actualiza para una mejor experiencia!",
   "store_url": "https://play.google.com/store/apps/details?id=com.aga360.gasesarteriales"
 }
